@@ -30,7 +30,7 @@ def opcao_invalida():
     voltar_ao_menu_principal()
 
 def exibir_subtitulo(texto):
-    os.system('cls')
+    os.system('clear')
     print(texto)
     print()
 
