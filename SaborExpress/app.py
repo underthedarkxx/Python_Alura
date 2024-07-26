@@ -117,7 +117,7 @@ def escolher_opcao():
 
 def main():
     '''Main do programa'''
-    os.system('cls')
+    os.system('clear')
     exibir_nome_do_programa()
     exibir_opcoes()
     escolher_opcao()
