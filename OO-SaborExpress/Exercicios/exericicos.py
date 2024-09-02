@@ -1,3 +1,4 @@
+
 class Restaurante:
     nome=''
     categoria = ''
